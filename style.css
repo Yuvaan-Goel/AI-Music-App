@@ -1,0 +1,53 @@
+.heading
+{
+    font-size: 25px;
+    margin: 0;
+    width: 100%;
+}
+
+#note
+{
+    font-size: 18px;
+    color: black;
+}
+body
+{
+    background-size: cover;
+}
+
+.speed
+{
+    float: left;
+}
+
+.speed h3
+{
+    font-size: 20px;
+}
+
+img
+{
+    width: 200px;
+    border-radius: 100px;
+}
+
+.volume
+{
+    float: right;
+}
+
+.volume h3
+{
+    font-size: 20px;
+}
+
+.play-button
+{
+    font-size: 25px;
+}
+
+canvas
+{
+    border: 2px black;
+    box-shadow: 5px 5px 5px purple;
+}
